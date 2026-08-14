@@ -29,6 +29,6 @@ print(orders)
 # insert()   - Add at a specific index
 # pop(1)     - Remove by index
 # pop()      - Remove by last item
-# sort()     - Sort the list according to their natual order
+# sort()     - Sort the list according to their natual order (i.e arrange them alphabetically A → Z)
 # reverse()  - Reverse the current order
-# sort(reverse=True) - Arranges the list in descending alphabetical order, from Z → A.
+# sort(reverse=True) - Arranges the list in descending alphabetical order, from Z → A

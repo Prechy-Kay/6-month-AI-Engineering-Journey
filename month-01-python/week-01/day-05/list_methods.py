@@ -8,7 +8,7 @@ print(orders)
 
 
 orders = ["Cake", "Cupcake", "Bread", "Meat Pie"]
-orders.insert(1, "Cookies")  # add an item at a specific index position shifting everything afer it to the right.
+orders.insert(1, "Cookies")  # add an item at a specific index position shifting everything after it to the right.
 print(orders)
 
 
